@@ -1,0 +1,17 @@
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\bin\Debug\net7.0-windows\Auto-Typer.exe
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\bin\Debug\net7.0-windows\Auto-Typer.deps.json
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\bin\Debug\net7.0-windows\Auto-Typer.runtimeconfig.json
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\bin\Debug\net7.0-windows\Auto-Typer.dll
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\bin\Debug\net7.0-windows\Auto-Typer.pdb
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.csproj.AssemblyReference.cache
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto_Typer.Form1.resources
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.csproj.GenerateResource.cache
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.AssemblyInfoInputs.cache
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.AssemblyInfo.cs
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.csproj.CoreCompileInputs.cache
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.dll
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\refint\Auto-Typer.dll
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.pdb
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\Auto-Typer.genruntimeconfig.cache
+C:\Users\jmasu\OneDrive\Desktop\Auto-Typer\obj\Debug\net7.0-windows\ref\Auto-Typer.dll
